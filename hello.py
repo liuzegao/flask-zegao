@@ -10,7 +10,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate, MigrateCommand
 from flask_mail import Mail, Message
 
-basedir = os.path.abspath(os.path.dirname(__file__))
+basedir = os.path.abspath(os.path.dirname(__file__)) #根目录
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'hard to guess string'
