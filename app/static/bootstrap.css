@@ -4708,7 +4708,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-brand {
-  color: #f0f823;
+  color: white;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -4722,12 +4722,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #f0f823;
+  color: white;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #f0f823;
+  color: white;
   background-color: transparent;
 }
 
@@ -4760,7 +4760,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #f0f823;
+  border-color: white;
 }
 
 .navbar-default .navbar-nav > .open > a,
@@ -4859,7 +4859,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
-  border-color: #f0f823;
+  border-color: white;
 }
 
 .navbar-inverse .navbar-nav > .open > a,
@@ -4871,13 +4871,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 @media (max-width: 767px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
-    border-color: #f0f823;
+    border-color: white;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-    background-color: #f0f823;
+    background-color: white;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-    color: #f0f823;
+    color: white;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
