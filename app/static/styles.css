@@ -81,7 +81,7 @@ div.pagination {
 }
 div.flask-pagedown-preview {
     margin: 10px 0px 10px 0px;
-    border: 1px solid #e0e0e0;
+    border: 1px solid dodgerblue;
     padding: 4px;
 }
 div.flask-pagedown-preview h1 {
@@ -104,4 +104,9 @@ div.flask-pagedown-preview h3 {
 }
 .table.followers tr {
     border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-default{
+    background-color: dodgerblue;border-color:white;
+    padding:5px;
 }
